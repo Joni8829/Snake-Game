@@ -6,7 +6,7 @@ To run this project locally:
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/Joni8829/filtro.git](https://github.com/Joni8829/filtro.git)
+   git clone [https://github.com/Joni8829/filtro.git](https://github.com/Joni8829/Snake-Game.git)
 
 
 ### 📜 License & Credits
